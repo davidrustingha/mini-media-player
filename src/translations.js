@@ -56,5 +56,22 @@ const translations = {
     },
   },
 };
-
+  nl: {
+    placeholder: {
+      tts: 'Tekst naar spraak',
+    },
+    label: {
+      leave: 'Verlaten',
+      ungroup: 'Degroeperen',
+      group_all: 'Groeperen',
+      send: 'Verzenden',
+    },
+    state: {
+      idle: 'Inactief',
+      unavailable: 'Onbeschikbaar',
+    },
+    title: {
+      speaker_management: 'Luidspreker beheer',
+    },
+  },
 export default translations;
